@@ -1,0 +1,66 @@
+* {
+  margin: 0%;
+  padding: 0%;
+
+}
+.container-fluid{
+  background-color: #ECF1F2;
+}
+#sidebar {
+  width: 8%;
+  height: 720px;
+  margin: auto;
+  border: 1px solid #E7ECED;
+  background-color: white;
+  align-items: center;
+  position: fixed;
+}
+
+.mainpage{
+  height: 700px;
+  padding-top: 100px;
+  padding-left: 120px;
+  background-color: #ECF1F2;
+
+
+}
+.form-group{
+  padding-top: 40px;
+  padding-left: 80px;
+}
+#logo {
+  margin: 10px;
+  padding: 10px;
+}
+ul li a {
+  margin: auto;
+  padding: 15px;
+  color: grey;
+  line-height: 1.5em;
+  float: left;
+  font-size: 10px;
+  text-decoration: none;
+  align-items: center;
+}
+#student,
+#settings {
+  height: 65px;
+  width: 100%;
+  /* background-color: black; */
+  text-align: center;
+}
+#lessonPlan {
+  height: 65px;
+  width: 100%;
+  background-color: #B4E0EC;
+  text-align: center;
+  border-left: 4px solid rgb(136, 168, 168);
+}
+.square {
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 80px;
+  background-color: white;
+}
